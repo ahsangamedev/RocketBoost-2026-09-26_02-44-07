@@ -11,6 +11,6 @@ public class test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // hello this is the beginning of my rocket boost
+        // hello this is the beginning of my rocket booster
     }
 }
